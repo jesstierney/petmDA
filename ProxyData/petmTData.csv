@@ -1,0 +1,60 @@
+﻿site,lat,lon,paleolat_herold,paleolon_herold,paleodepth,type,clean,preservation,genus,pHPETM,omegaPETM,pHPREPETM,omegaPREPETM,pHMODERN,omegaMODERN,valuePETM,valuePREPETM,stdPETM,stdPREPETM,nPETM,nPREPETM,source,doi,assessment
+Bass River,39.61,-74.44,38.45,-55.55,,tex86,,,,,,,,,,0.889,0.748,0.019,0.019,18,15,Sluijs07,https://doi.org/10.1038/nature06400,deepMIP
+Wilson Lake,39.66,-75.04,38.65,-56.45,,tex86,,,,,,,,,,0.89,0.7,0.023,0.015,17,24,Zachos06,https://doi.org/10.1130/G22522.1,deepMIP
+ODP 1172,-43.96,149.93,-64.45,159,,tex86,,,,,,,,,,0.787,0.652,0.023,0.019,8,30,Sluijs11,https://doi.org/10.5194/cp-7-47-2011,deepMIP
+Store Baelt Section,55.37,11.08,50.8,6.25,,tex86,,,,,,,,,,0.669,0.531,0.045,0.078,4,7,Schoon15,https://doi.org/10.1016/j.orggeochem.2014.11.003,deepMIP
+Harrell Core,32.25111111,-88.72055556,32.85,-72,,tex86,,,,,,,,,,0.888,0.738,0.019,0.011,15,3,Sluijs14,https://doi.org/10.5194/cp-10-1421-2014,included prePETM data with MI less than 0.5
+Well 10,53.5,73.51666667,55.25,66.35,,tex86,,,,,,,,,,0.682,0.505,0.015,0.025,3,8,Frieling14,https://doi.org/10.1130/G35724.1,deepMIP
+IODP 302 ACEX M0004,87.86666667,136.175,83,29.3,,tex86,,,,,,,,,,0.639,0.588,0.016,0.022,15,2,Sluijs20,https://doi.org/10.5194/cp-16-2381-2020,deepMIP ID but updated with reruns from Sluijs 2020. Included two Paleocene samples w DRI < 0.4
+mid-Waipara,-43.06,172.61,-54.85,-160.85,,tex86,,,,,,,,,,0.836,,0.03,,2,,Hollis12,https://doi.org/10.1016/j.epsl.2012.06.024,deepMIP
+Nigeria IB10A,6.88,3,-0.35,-2.25,,tex86,,,,,,,,,,0.935,0.826,0.021,0.025,2,11,Frieling17,https://doi.org/10.1126/sciadv.1600891,deepMIP
+Nigeria IB10B,6.88,3,-0.35,-2.25,,tex86,,,,,,,,,,0.922,0.837,0.023,0.025,5,19,Frieling17,https://doi.org/10.1126/sciadv.1600891,body as labeled in Frieling 2017
+Nigeria SQ,6.8,3.63,-0.45,-1.25,,tex86,,,,,,,,,,,0.844,,0.018,,7,Frieling17,https://doi.org/10.1126/sciadv.1600891,deepMIP
+ODP 959,3.6276,-2.7358,-2.65,-8.55,,tex86,,,,,,,,,,0.961,0.843,0.004,0.013,14,17,Frieling18,https://doi.org/10.5194/cp-14-39-2018,deepMIP
+Fur Section,56.84,8.99,52.65,4.05,,tex86,,,,,,,,,,0.674,0.584,0.09,0.054,21,12,Stokke20,https://doi.org/10.1016/j.epsl.2020.116388,this study
+Ancora,39.69222,-74.54902,38.65,-56.45,,tex86,,,,,,,,,,0.909,0.728,0.02,0.022,19,14,Elling19,https://doi.org/10.1038/s41467-019-12553-3,this study
+IODP364-M0077A,21.45015,-89.949367,22.15,-75.05,,tex86,,,,,,,,,,0.973,0.856,0.008,,5,1,Smith20,https://doi.org/10.5194/cp-16-1889-2020,this study. DRI is a little high on the Paleocene sample (0.7) but It passes other criteria
+Ancora,39.69222,-74.54902,38.65,-56.45,115,mg,1,0,Morozovella,7.491107941,3.205500841,7.745986462,4.282963753,8.117887497,2.914901972,4.29,,0.73,,19,,Babila14,https://doi.org/doi:10.7282/T3Z31WRT,this study. Only used data below the unconformity
+Ancora,39.69222,-74.54902,38.65,-56.45,115,mg,1,0,Acarinina,7.491107941,3.205500841,7.745986462,4.282963753,8.117887497,2.914901972,3.4,,0.44,,24,,Babila14,https://doi.org/doi:10.7282/T3Z31WRT,this study. Only used data below the unconformity
+Bass River,39.61,-74.44,38.45,-55.55,115,mg,1,0,Morozovella,7.491107941,3.205500841,7.745986462,4.282963753,8.117887497,2.914901972,3.91,,0.44,,9,,Babila16,https://doi.org/10.1130/G37522.1,deepMIP
+Bass River,39.61,-74.44,38.45,-55.55,115,mg,1,0,Acarinina,7.491107941,3.205500841,7.745986462,4.282963753,8.117887497,2.914901972,3.35,2.65,0.25,0.27,12,5,Babila16,https://doi.org/10.1130/G37522.1,deepMIP
+ODP 1209,32.652,158.506,22.2,-161.45,2250,mg,1,1,Morozovella,7.492646694,1.067544818,7.741186142,1.186112404,8.10065937,0.856111228,5.21,3.52,0.26,0.21,32,24,Zachos03,https://doi.org/10.1126/science.1090110,deepMIP
+ODP 1209,32.652,158.506,22.2,-161.45,2250,mg,1,1,Acarinina,7.492646694,1.067544818,7.741186142,1.186112404,8.10065937,0.856111228,4.97,3.43,0.39,0.15,25,11,Zachos03,https://doi.org/10.1126/science.1090110,deepMIP
+DSDP 527,-28.0415,1.7633,-34.95,-7.75,3400,mg,0,1,Morozovella,7.497486115,0.876624286,7.750195503,0.983152211,8.085289955,1.170873404,4.27,3.48,0.42,0.15,2,7,Tripati04,https://doi.org/10.1029/2003GC000631,deepMIP
+DSDP 527,-28.0415,1.7633,-34.95,-7.75,3400,mg,0,1,Acarinina,7.497486115,0.876624286,7.750195503,0.983152211,8.085289955,1.170873404,4.02,3.39,0.17,0.11,7,11,Tripati04,https://doi.org/10.1029/2003GC000631,deepMIP
+DSDP 401,47.4275,-8.8103,41.95,-10.95,1900,mg,0,1,Morozovella,7.503662586,0.869027436,7.757180691,0.818471849,8.150939941,1.668823719,3.86,3.42,0.12,0.07,11,13,Bornemann14 Gutjahr17,https://doi.org/10.1016/j.epsl.2014.03.017,deepMIP
+Nigeria SQ,6.8,3.63,-0.45,-1.25,200,mg,1,0,Morozovella,7.513446808,1.553271294,7.757463455,1.640804887,8.117982864,2.082089186,,4.65,,0.36,,10,Frieling17,https://doi.org/10.1126/sciadv.160089,deepMIP
+Nigeria SQ,6.8,3.63,-0.45,-1.25,200,mg,1,0,Acarinina,7.513446808,1.553271294,7.757463455,1.640804887,8.117982864,2.082089186,,4.2,,0.51,,10,Frieling17,https://doi.org/10.1126/sciadv.160089,deepMIP
+DSDP 277,-52.224,166.191,-62.45,-173.95,900,mg,0,1,Morozovella,7.473640442,1.402886987,7.730334759,1.6345613,8.089119911,1.580263019,4.73,,0.51,,7,,Hines17,https://doi.org/10.1016/j.palaeo.2017.02.037,deepMIP
+DSDP 277,-52.224,166.191,-62.45,-173.95,900,mg,0,1,Acarinina,7.473640442,1.402886987,7.730334759,1.6345613,8.089119911,1.580263019,4.59,3.73,1.19,0.3,8,7,Hines17,https://doi.org/10.1016/j.palaeo.2017.02.037,deepMIP
+ODP 865,18.44033,-179.555,4.85,-143.85,1400,mg,0,1,Morozovella,7.485396862,1.138587594,7.729179859,1.251206994,8.087483406,1.049892783,4.5,3.96,0.17,0.16,8,12,Tripati04,https://doi.org/10.1029/2003GC000631,deepMIP
+ODP 865,18.44033,-179.555,4.85,-143.85,1400,mg,0,1,Acarinina,7.485396862,1.138587594,7.729179859,1.251206994,8.087483406,1.049892783,4.72,4.03,0.19,0.3,9,13,Tripati04,https://doi.org/10.1029/2003GC000631,deepMIP
+IODPU1443,5.38349,90.36183,-26.15,74.85,1500,mg,1,1,Morozovella,7.495244503,1.114907861,7.743616104,1.209617138,8.05432415,1.209561229,4.81,4.02,0.002,0.04,2,3,Barnet20,https://doi.org/10.1016/j.epsl.2020.116414,this study
+ODP 690,-65.161,1.2049,-65.05,-1.35,1900,mg,0,0,Acarinina,7.461664677,1.348911643,7.707589149,1.628505468,8.075650215,1.217604518,3.39,2.65,0.49,0.42,12,5,Kozdon20,https://doi.org/10.1029/2019PA003811,this study
+Ancora,39.69222,-74.54902,38.65,-56.45,,delo,,0,Morozovella,7.491107941,,7.745986462,,8.117887497,,-3.86,,0.2,,10,,Babila14,https://doi.org/doi:10.7282/T3Z31WRT,this study. Only used data below the unconformity
+Ancora,39.69222,-74.54902,38.65,-56.45,,delo,,0,Acarinina,7.491107941,,7.745986462,,8.117887497,,-3.33,,0.19,,26,,Babila14,https://doi.org/doi:10.7282/T3Z31WRT,this study. Only used data below the unconformity
+Bass River,39.61,-74.44,38.45,-55.55,,delo,,0,Morozovella,7.491107941,,7.745986462,,8.117887497,,-3.75,-2.81,0.35,0.55,26,20,John08,https://doi.org/10.1029/2007PA001465,deepMIP. single specimens pre-averaged
+Bass River,39.61,-74.44,38.45,-55.55,,delo,,0,Acarinina,7.491107941,,7.745986462,,8.117887497,,-3.11,-2.33,0.42,0.42,29,28,John08,https://doi.org/10.1029/2007PA001465,deepMIP. single specimens pre-averaged
+Tanzania TDP14,-9.29,39.47,-18.65,33.2,,delo,,0,Morozovella,7.495163441,,7.746274471,,8.030877113,,-3.8,-3.36,0.52,0.26,20,9,Aze14,https://doi.org/10.1130/G35637.1,went back to original data bc data were missing from deepMIP compilation. Single specimens pre-averaged
+Tanzania TDP14,-9.29,39.47,-18.65,33.2,,delo,,0,Acarinina,7.495163441,,7.746274471,,8.030877113,,-3.62,-3.28,0.33,0.39,10,5,Aze14,https://doi.org/10.1130/G35637.1,went back to original data bc data were missing from deepMIP compilation. Single specimens pre-averaged
+Nigeria SQ,6.8,3.63,-0.45,-1.25,,delo,,0,Morozovella,7.513446808,,7.757463455,,8.117982864,,,-3.77,,0.12,,12,Frieling17,https://doi.org/10.1126/sciadv.160089,used all LP data to match MgCa
+Nigeria SQ,6.8,3.63,-0.45,-1.25,,delo,,0,Acarinina,7.513446808,,7.757463455,,8.117982864,,,-3.4,,0.23,,12,Frieling17,https://doi.org/10.1126/sciadv.160089,used all LP data to match MgCa
+Wilson Lake,39.66,-75.04,38.65,-56.45,,delo,,0,Morozovella,7.491107941,,7.745986462,,8.117887497,,-3.78,,0.26,,14,,Zachos06,https://doi.org/10.1130/G22522.1,deepMIP
+Wilson Lake,39.66,-75.04,38.65,-56.45,,delo,,0,Acarinina,7.491107941,,7.745986462,,8.117887497,,-3.46,,0.29,,17,,Zachos06,https://doi.org/10.1130/G22522.1,deepMIP
+ODP 865,18.44033,-179.555,4.85,-143.85,,delo,,0,Morozovella,7.485396862,,7.729179859,,8.087483406,,-3.88,-3.63,0.46,0.26,12,7,Kozdon13,https://doi.org/10.1002/palo.20048,deepMIP
+Lodo Gulch,36.59,-120.64,42.25,-103.75,,delo,,0,Morozovella,7.489235401,,7.747316837,,8.042472839,,-2.97,,0.16,,21,,John08,https://doi.org/10.1029/2007PA001465,deepMIP
+Lodo Gulch,36.59,-120.64,42.25,-103.75,,delo,,0,Acarinina,7.489235401,,7.747316837,,8.042472839,,-3,,0.17,,12,,John08,https://doi.org/10.1029/2007PA001465,deepMIP
+Tumey Gulch,36.54,-120.64,42.25,-103.75,,delo,,0,Morozovella,7.489235401,,7.747316837,,8.042472839,,-3.23,,0.14,,4,,John08,https://doi.org/10.1029/2007PA001465,deepMIP
+Tumey Gulch,36.54,-120.64,42.25,-103.75,,delo,,0,Acarinina,7.489235401,,7.747316837,,8.042472839,,-3.19,,0.16,,2,,John08,https://doi.org/10.1029/2007PA001465,deepMIP
+Milville,39.4,-75.09,37.65,-56.75,,delo,,0,Morozovella,7.491950989,,7.747458458,,8.13143158,,-3.82,-2.97,0.41,0.25,26,4,Si18,https://doi.org/10.1002/2017PA003219,deepMIP
+Milville,39.4,-75.09,37.65,-56.75,,delo,,0,Acarinina,7.491950989,,7.747458458,,8.13143158,,-3.3,-2.43,0.24,0.28,30,8,Si18,https://doi.org/10.1002/2017PA003219,deepMIP
+DSDP 401,47.4275,-8.8103,41.95,-10.95,,delo,,0,Morozovella,7.503662586,,7.757180691,,8.150939941,,-2.46,-1.06,0.16,0.21,26,14,Bornemann14,https://doi.org/10.1016/j.epsl.2014.03.017,deepMIP
+DSDP 401,47.4275,-8.8103,41.95,-10.95,,delo,,0,Acarinina,7.503662586,,7.757180691,,8.150939941,,-1.76,-1.5,0.32,0.4,12,15,Bornemann14,https://doi.org/10.1016/j.epsl.2014.03.017,deepMIP
+ODP 690,-65.161,1.2049,-65.05,-1.35,,delo,,0,Acarinina,7.461664677,,7.707589149,,8.075650215,,-2.52,-2.12,0.6,0.44,13,3,Kozdon20,https://doi.org/10.1029/2019PA003811,this study. single specimens pre-averaged
+Point Margaret,-38.725,143.176,-61.35,144.55,,mbt,,,,,,,,,,0.951,0.921,0.018,0.008,17,37,Huurdemann21,https://doi.org/10.1130/G47343.1,this study
+Cobham Lignite,51.4,0.4,46.25,-3.15,,mbt,,,,,,,,,,,0.914,,0.015,,7,Naafs18,https://doi.org/10.1038/s41561-018-0199-0,deepMIP
+Kasnau Matasukh Seam,27.10694444,74.075,0.35,63.65,,mbt,,,,,,,,,,,0.991,,0.008,,2,Naafs18,https://doi.org/10.1038/s41561-018-0199-0,deepMIP
+Barsingsar Seam,27.84,73.2,1.65,63.05,,mbt,,,,,,,,,,,0.979,,,,1,Naafs18,https://doi.org/10.1038/s41561-018-0199-0,deepMIP
+Otaio Gorge Lignite,-44.5,170.9,-56.55,-164.05,,mbt,,,,,,,,,,0.974,0.912,,0.049,1,2,Inglis21,https://doi.org/10.1130/G48110.1,this study lignite values
+Otaio Gorge Sediments,-44.5,170.9,-56.55,-164.05,,mbt,,,,,,,,,,0.808,0.678,0.027,0.021,4,7,Inglis21,https://doi.org/10.1130/G48110.1,this study marine interbed values
+IODP 302 ACEX M0004,87.86666667,136.175,83,29.3,,mbt,,,,,,,,,,0.837,0.734,0.028,0.016,15,13,Sluijs20,https://doi.org/10.5194/cp-16-2381-2020,this study
