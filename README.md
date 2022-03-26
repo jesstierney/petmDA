@@ -7,7 +7,7 @@ Tierney, J. E., Zhu, J., Li, M., Ridgwell, A., Hakim, G. J., Poulsen, C. J., Whi
 
 ## Guide to the files
 
-###ProxyData
+### ProxyData
 
 In this folder you will find: 
 
@@ -15,7 +15,7 @@ In this folder you will find:
 
 **validationData.xlsx** Compiled independent terrestrial temperature, hydroclimate, and leaf wax D/H data that were used to validate the PETM-DA. These data were not assimilated but rather are used as external checks on the validity of the results. The sheet "TerrestrialTemp" has quantitative temperature estimates from pollen, leaf-based methods, and clumped isotopes (D47) for the PETM and prePETM timeslices respectively. The sheet "PminusE" has qualitative estimates of hydroclimate change (1 = wetter, -1 = drier) based on changes in plants or pollen, dinocysts, or clay minerology (presence of palygorskite). The sheet "LeafWaxdD" has quantitative estmates of the change in the &delta;D of precipitation during the PETM (note however in some cases the standard error exceeds the mean change, hence indicating a non-significant shift).
 
-###PosteriorResults
+### PosteriorResults
 
 In this folder you will find:
 
