@@ -1,9 +1,7 @@
 # petmDA
-This is a public repository containing data and results for the Paleocene-Eocene Thermal Maximum data assimilation (PETM-DA), which is described in the submitted paper:
+This is a public repository containing data and results for the Paleocene-Eocene Thermal Maximum data assimilation (PETM-DA), which is described in the paper:
 
-Tierney, J. E., Zhu, J., Li, M., Ridgwell, A., Hakim, G. J., Poulsen, C. J., Whiteford, R. D. M., Rae, J. W. B., and Kump, L. Spatial patterns of climate change across the Paleocene-Eocene Thermal Maximum, submitted to Proceedings of the National Academy of Sciences, March 2022.
-
-**Please be advised this paper has yet to be peer reviewed so all files here are preliminary**
+Tierney, J. E., Zhu, J., Li, M., Ridgwell, A., Hakim, G. J., Poulsen, C. J., Whiteford, R. D. M., Rae, J. W. B., and Kump, L. (2022) Spatial patterns of climate change across the Paleocene-Eocene Thermal Maximum, Proceedings of the National Academy of Sciences, 119, [e2205326119](https://doi.org/10.1073/pnas.2205326119)
 
 ## Guide to the files
 
